@@ -1,2 +1,2 @@
 # Convolutional neural network Experiments 🧪
-[View the Jupyter Notebook](./.ipynb_checkpoints/Practica CNN-checkpoint.ipynb)
+[View the Jupyter Notebook](./.ipynb_checkpoints/Practica_CNN-checkpoint.ipynb)
